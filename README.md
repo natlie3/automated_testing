@@ -1,3 +1,3 @@
-Website testing for Good Hope One non-profit to give suggestions on how to improve the experince for the users.
+Website testing with, Good Hope One, a non-profit. I used ghost inspector to give suggestions on how to improve the site for the users.
 
 
